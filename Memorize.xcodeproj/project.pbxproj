@@ -19,6 +19,7 @@
 		B773EC17280AF86200D3939D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B773EC19280AF86400D3939D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B773EC1C280AF86400D3939D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B773EC23280B005400D3939D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				B773EC17280AF86200D3939D /* ContentView.swift */,
 				B773EC19280AF86400D3939D /* Assets.xcassets */,
 				B773EC1B280AF86400D3939D /* Preview Content */,
+				B773EC23280B005400D3939D /* README.md */,
 			);
 			path = Memorize;
 			sourceTree = "<group>";
